@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\Android\\AndroidStudio\\EmergencyCall\\app\\build\\intermediates\\res\\merged\\debug\\menu\\location.xml",
+        "source": "F:\\Android\\AndroidStudio\\EmergencyCall\\app\\src\\main\\res\\menu\\location.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudio\\EmergencyCall\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_map.xml",
+        "source": "F:\\Android\\AndroidStudio\\EmergencyCall\\app\\src\\main\\res\\menu\\menu_map.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudio\\EmergencyCall\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\Android\\AndroidStudio\\EmergencyCall\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudio\\EmergencyCall\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash_screen.xml",
+        "source": "F:\\Android\\AndroidStudio\\EmergencyCall\\app\\src\\main\\res\\menu\\splash_screen.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudio\\EmergencyCall\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_maps.xml",
+        "source": "F:\\Android\\AndroidStudio\\EmergencyCall\\app\\src\\main\\res\\menu\\menu_maps.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudio\\EmergencyCall\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_about.xml",
+        "source": "F:\\Android\\AndroidStudio\\EmergencyCall\\app\\src\\main\\res\\menu\\menu_about.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudio\\EmergencyCall\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_setting.xml",
+        "source": "F:\\Android\\AndroidStudio\\EmergencyCall\\app\\src\\main\\res\\menu\\menu_setting.xml"
+    }
+]
